@@ -27,7 +27,7 @@
         <pagehelper.version>1.2.3</pagehelper.version>
         <httpClient.version>4.5.6</httpClient.version>
         <quartzJobs.version>2.2.1</quartzJobs.version>
-        <commonsIo.version>2.6</commonsIo.version>
+        <commonsIo.version>2.7</commonsIo.version>
         <commonsLang3.version>3.8</commonsLang3.version>
         <easyexcel.version>1.1.2-beta4</easyexcel.version>
         <aliyunOSS.version>2.8.2</aliyunOSS.version>
